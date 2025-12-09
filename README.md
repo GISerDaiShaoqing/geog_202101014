@@ -1,2 +1,7 @@
-# geog_202101014
-A repo for geog-202101014 (Health Geography) at the Wuhan University
+# 健康地理
+
+武汉大学资源与环境科学学院《健康地理》课程（202101014，2025秋季）
+
+|Author|Shaoqing Dai|
+|---|---|
+|E-mail|shaoqing.dai@outlook.com|
