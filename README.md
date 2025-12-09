@@ -10,13 +10,10 @@
 
 # 大纲
 
-1 健康地理中的空间技术——感知与描绘健康格局
-
-- 1.1 引言：为什么需要空间视角
-
-- 1.2 健康地理中空间数据的获取 (感知)
-
--- 1.2.1 定位人与地点：Global Navigation Satellite System (GNSS)、Located Based Services (LBS)与地理编码(Geocoding)
+#### 1 健康地理中的空间技术——感知与描绘健康格局
+##### 1.1 引言：为什么需要空间视角
+##### 1.2 健康地理中空间数据的获取 (感知)
+###### 1.2.1 定位人与地点：Global Navigation Satellite System (GNSS)、Located Based Services (LBS)与地理编码(Geocoding)
 
 #### 1.2.2 环境感知：Remote Sensing (RS)/Earth Observation (EO)
 
